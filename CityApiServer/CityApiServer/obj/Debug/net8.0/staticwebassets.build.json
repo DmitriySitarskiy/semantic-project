@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "opN/HDM0uliEKRwq3yb5c0RnwyjJoL0eR9ExchK1fRA=",
+  "Source": "CityApiServer",
+  "BasePath": "_content/CityApiServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

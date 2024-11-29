@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dmytro.sitarskyi\\source\\repos\\CityExplorer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFD1078-728E-4794-9366-512884CD0187}|CityExplorer\\CityExplorer.csproj|c:\\users\\dmytro.sitarskyi\\source\\repos\\cityexplorer\\cityexplorer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFD1078-728E-4794-9366-512884CD0187}|CityExplorer\\CityExplorer.csproj|solutionrelative:cityexplorer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFD1078-728E-4794-9366-512884CD0187}|CityExplorer\\CityExplorer.csproj|c:\\users\\dmytro.sitarskyi\\source\\repos\\cityexplorer\\cityexplorer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFFD1078-728E-4794-9366-512884CD0187}|CityExplorer\\CityExplorer.csproj|solutionrelative:cityexplorer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFD1078-728E-4794-9366-512884CD0187}|CityExplorer\\CityExplorer.csproj|c:\\users\\dmytro.sitarskyi\\source\\repos\\cityexplorer\\cityexplorer\\citybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFD1078-728E-4794-9366-512884CD0187}|CityExplorer\\CityExplorer.csproj|solutionrelative:cityexplorer\\citybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFD1078-728E-4794-9366-512884CD0187}|CityExplorer\\CityExplorer.csproj|c:\\users\\dmytro.sitarskyi\\source\\repos\\cityexplorer\\cityexplorer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFD1078-728E-4794-9366-512884CD0187}|CityExplorer\\CityExplorer.csproj|solutionrelative:cityexplorer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityBase.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro.sitarskyi\\source\\repos\\CityExplorer\\CityExplorer\\CityBase.cs",
+              "RelativeDocumentMoniker": "CityExplorer\\CityBase.cs",
+              "ToolTip": "C:\\Users\\dmytro.sitarskyi\\source\\repos\\CityExplorer\\CityExplorer\\CityBase.cs",
+              "RelativeToolTip": "CityExplorer\\CityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:15:55.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro.sitarskyi\\source\\repos\\CityExplorer\\CityExplorer\\MainForm.cs",
+              "RelativeDocumentMoniker": "CityExplorer\\MainForm.cs",
+              "ToolTip": "C:\\Users\\dmytro.sitarskyi\\source\\repos\\CityExplorer\\CityExplorer\\MainForm.cs",
+              "RelativeToolTip": "CityExplorer\\MainForm.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAUwGoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:10:14.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dmytro.sitarskyi\\source\\repos\\CityExplorer\\CityExplorer\\MainForm.cs",
+              "RelativeDocumentMoniker": "CityExplorer\\MainForm.cs",
+              "ToolTip": "C:\\Users\\dmytro.sitarskyi\\source\\repos\\CityExplorer\\CityExplorer\\MainForm.cs [Design]",
+              "RelativeToolTip": "CityExplorer\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:09:54.015Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro.sitarskyi\\source\\repos\\CityExplorer\\CityExplorer\\Program.cs",
+              "RelativeDocumentMoniker": "CityExplorer\\Program.cs",
+              "ToolTip": "C:\\Users\\dmytro.sitarskyi\\source\\repos\\CityExplorer\\CityExplorer\\Program.cs",
+              "RelativeToolTip": "CityExplorer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:09:23.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
